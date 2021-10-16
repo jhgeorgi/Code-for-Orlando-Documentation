@@ -53,3 +53,8 @@ Provide the type of open-source license and a link to the repo's [LICENSE](https
 
 [CFO Website Project Canvas](https://docs.google.com/presentation/d/1Uir9M8K-s-ovkNIkMlx4tlofZ8BTiuZWv3iYBr3sJ-s/edit#slide=id.geb8b826570_0_5)
 
+*Log-in information needed for the following sites*
+
+- [CFO Website Jira Board](https://id.atlassian.com/login?continue=https%3A%2F%2Fgeo-nomad.atlassian.net%2Flogin%3FredirectCount%3D1%26dest-url%3D%252Fsecure%252FRapidBoard.jspa%253FrapidView%253D3%2526projectKey%253DCS%26application%3Djira&application=jira)
+- [CFO Website Figma Board](https://www.figma.com/file/8LLqaSdO0uM52DO1IUgb56/CFO-website?node-id=0%3A1)
+
