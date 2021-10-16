@@ -1,8 +1,3 @@
----
-output:
-  html_document: default
-  word_document: default
----
 ## Code for Orlando Website
 
 Version number:  
