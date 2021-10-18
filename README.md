@@ -1,7 +1,7 @@
 ## Code for Orlando Website
 
-Version number:  
-Launch Date: 
+Version number: Draft for comments
+Launch Date: 10/18/2021
 
 ### Contributors
 
@@ -36,6 +36,9 @@ See included documentation
  - Code Folder
  
  - Tracking version/update file
+ - [Draft site](https://grav.changeprogramming.com/) for comment/update before launch 
+
+
  
 
 
