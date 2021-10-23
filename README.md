@@ -3,6 +3,29 @@
 Version number: Draft for comments
 Launch Date: 10/18/2021
 
+### About
+
+The purpose of the Code for Orlando website is to provide a digital home to communicate with new volunteers, partners, donors and other stakeholders about who the Brigade is, what they offer, and how the community can contribute.
+
+This repository will hold the code, documentation, and links to resources used for the website
+
+See included documentation 
+
+ - Code Folder
+ - Tracking version/update file
+ - [Draft site](https://grav.changeprogramming.com/) for comment/update before launch 
+
+### Resources/Technolgy
+
+- Framework/templating engine: [Jekyll](https://jekyllrb.com/)
+- CSS/styling consistency: [Bootstrap](https://getbootstrap.com/)
+- Jira for work flow: [Jira](https://www.atlassian.com/software/jira?&aceid=&adposition=&adgroup=89541892462&campaign=9124878129&creative=415522909140&device=m&keyword=jira&matchtype=e&network=g&placement=&ds_kids=p51241496118&ds_e=GOOGLE&ds_eid=700000001558501&ds_e1=GOOGLE&gclid=EAIaIQobChMI2Zao6-mx8wIVC02GCh39ugUPEAAYAiAAEgJiHfD_BwE&gclsrc=aw.ds)
+- Figma for wire framing: [Figma](https://www.figma.com/)
+ 
+
+
+### Site Map
+
 ### Contributors
 
 - Florence Vicil, Product Owner Delegate/ Stakeholder Liaison
@@ -17,33 +40,6 @@ Launch Date: 10/18/2021
 - Carrie Mathieu, Volunteer - frontend/backend
 - Frank Perez, Volunteer - Code for Tampa Bay
 - Jacqui Georgi, Volunteer - Documentation
-
-
-### Resources/Technolgy
-
-- Framework/templating engine: [Jekyll](https://jekyllrb.com/)
-- CSS/styling consistency: [Bootstrap](https://getbootstrap.com/)
-- Jira for work flow: [Jira](https://www.atlassian.com/software/jira?&aceid=&adposition=&adgroup=89541892462&campaign=9124878129&creative=415522909140&device=m&keyword=jira&matchtype=e&network=g&placement=&ds_kids=p51241496118&ds_e=GOOGLE&ds_eid=700000001558501&ds_e1=GOOGLE&gclid=EAIaIQobChMI2Zao6-mx8wIVC02GCh39ugUPEAAYAiAAEgJiHfD_BwE&gclsrc=aw.ds)
-- Figma for wire framing: [Figma](https://www.figma.com/)
-
-
-### About
-
-The purpose of the Code for Orlando website is to provide a digital home to communicate with new volunteers, partners, donors and other stakeholders about who the Brigade is, what they offer, and how the community can contribute.
-
-See included documentation 
-
- - Code Folder
- 
- - Tracking version/update file
- - [Draft site](https://grav.changeprogramming.com/) for comment/update before launch 
-
-
- 
-
-
-### Site Map
-
 
 ### License
 
