@@ -9,7 +9,7 @@ The purpose of the Code for Orlando website is to provide a digital home to comm
 
 This repository will hold the code, documentation, and links to resources used for the website
 
-See included documentation 
+### Documentation 
 
  - Code Folder
  - Tracking version/update file
