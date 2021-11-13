@@ -13,7 +13,8 @@ This repository will hold the code, documentation, and links to resources used f
 
  - Code
  - Tracking version/update file
- - [Draft site](https://grav.changeprogramming.com/) for comment/update before launch 
+ - The current [Draft site](https://deploy-preview-14--friendly-brahmagupta-ae0d10.netlify.app/) for comment/update before launch.   
+   (At launch, remove this link and replace with the active website link) 
 
 ### Resources/Technolgy
 
