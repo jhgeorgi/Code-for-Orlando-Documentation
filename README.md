@@ -25,6 +25,8 @@ This repository will hold the code, documentation, and links to resources used f
  
 ### Site Map
 
+[Site Map](https://octopus.do/8qlt74ebyed)
+
 ### Contributors
 
 - Florence Vicil, Product Owner Delegate/ Stakeholder Liaison
@@ -42,7 +44,7 @@ This repository will hold the code, documentation, and links to resources used f
 
 ### License
 
- cforlando/cfo-website  is licensed under the MIT [LICENSE](https://github.com/cforlando/brigade-resources/blob/master/LICENSE) file.
+cforlando/cfo-website  is licensed under the MIT [LICENSE](https://github.com/cforlando/brigade-resources/blob/master/LICENSE) file.
 
 ### Code of Conduct
 
