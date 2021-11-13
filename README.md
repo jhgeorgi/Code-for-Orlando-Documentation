@@ -11,7 +11,7 @@ This repository will hold the code, documentation, and links to resources used f
 
 ### Documentation 
 
- - Code Folder
+ - Code
  - Tracking version/update file
  - [Draft site](https://grav.changeprogramming.com/) for comment/update before launch 
 
@@ -22,8 +22,6 @@ This repository will hold the code, documentation, and links to resources used f
 - Jira for work flow: [Jira](https://www.atlassian.com/software/jira?&aceid=&adposition=&adgroup=89541892462&campaign=9124878129&creative=415522909140&device=m&keyword=jira&matchtype=e&network=g&placement=&ds_kids=p51241496118&ds_e=GOOGLE&ds_eid=700000001558501&ds_e1=GOOGLE&gclid=EAIaIQobChMI2Zao6-mx8wIVC02GCh39ugUPEAAYAiAAEgJiHfD_BwE&gclsrc=aw.ds)
 - Figma for wire framing: [Figma](https://www.figma.com/)
  
-
-
 ### Site Map
 
 ### Contributors
@@ -43,10 +41,11 @@ This repository will hold the code, documentation, and links to resources used f
 
 ### License
 
-**ALL PROJECTS MUST INCLUDE AN OPEN-SOURCE LICENSE!!!**
-Provide the type of open-source license and a link to the repo's [LICENSE](https://github.com/cforlando/brigade-resources/blob/master/LICENSE) file.
+ cforlando/cfo-website  is licensed under the MIT [LICENSE](https://github.com/cforlando/brigade-resources/blob/master/LICENSE) file.
 
+### Code of Conduct
 
+[Code for Orlando Code of Conduct](https://github.com/cforlando/codeofconduct)
 
 ### Further Reading
 
